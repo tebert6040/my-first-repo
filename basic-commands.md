@@ -7,3 +7,9 @@ cd <directory-name> - Change Directory and the name of the folder you want to mo
 mkdir <directory-name> - make new directory 
 
 touch <filename> - creates files
+
+CMD + C - Copy to clipboard
+
+CMD + V - paste 
+
+CMD + S - save file
